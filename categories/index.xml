@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Kategorie - j-p.link</title>
+        <link>https://j-p.link/categories/</link>
+        <description>Categories - Kategorie - j-p.link</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>3d Druck</title>
+    <link>https://j-p.link/categories/3d-druck/</link>
+    <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/categories/3d-druck/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>live hacks</title>
+    <link>https://j-p.link/categories/live-hacks/</link>
+    <pubDate>Mon, 27 Dec 2021 19:55:42 &#43;0100</pubDate><guid>https://j-p.link/categories/live-hacks/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,76 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>j-p.link</title>
+        <link>https://j-p.link/</link>
+        <description>This is My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</lastBuildDate>
+            <atom:link href="https://j-p.link/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Wandhalter für Kaffefilter</title>
+    <link>https://j-p.link/posts/coffee_filter_holder/</link>
+    <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/posts/coffee_filter_holder/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/coffe_filter/coffe_corner_800.webp" referrerpolicy="no-referrer">
+            </div>Einleitung Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halöterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
+</item>
+<item>
+    <title>Ender Upgrades</title>
+    <link>https://j-p.link/posts/ender_upgrades/</link>
+    <pubDate>Sat, 01 Jan 2022 15:22:26 &#43;0100</pubDate><guid>https://j-p.link/posts/ender_upgrades/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/ender_upgrades/upgrades_preview.webp" referrerpolicy="no-referrer">
+            </div>Einleitung Nachdem ich von meiner fantastischen Freundin 😍 zu Weihnachten einen Ender 3 v2 geschenkt bekommen habe, musste ich die Zeit zwischen den ganzen Festessen so tun als wäre ich an Smalltalk interessiert, in Wahrheit jedoch wollte ich den Ender möglichst schnell aufbauen und austesten.
+Erschwerend kommt hinzu, dass ich vorher eigentlich keine Ahnung vom 3d Druck hatte, daher gab es gleichzeitig noch sehr viel zu lernen, den Thingiverse Account einrichten und direkt ein paar Coole Dinge zu &ldquo;liken&rdquo; und sich für später zu speichern.]]></description>
+</item>
+<item>
+    <title>Waschmittel</title>
+    <link>https://j-p.link/posts/detergent/</link>
+    <pubDate>Mon, 27 Dec 2021 19:55:42 &#43;0100</pubDate><guid>https://j-p.link/posts/detergent/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/detergent/waschmittel-1000.webp" referrerpolicy="no-referrer">
+            </div>Selbstgemachtes, umweltfreundlicheres Waschmittel
+Zutaten Zutaten   3 Liter Wasser 6 Esslöffel Waschsoda 45 Gramm Kernseife 20 Tropfen ätherische Öle (nach Belieben) Glasflaschen zum Abfüllen     Herstellung Zunächst wird die Kernseife möglichst stark zerkleinert. Dies gelingt entweder mit einer Reibe oder durch zerschneiden mit einem Messer. Optional kann man auch kleinere Stücke mit einem Esslöffel zerdrücken, so nimmt die Seife eine fast pulverartige Konsistenz an. Hierdurch löst sich die Seife später schneller auf.]]></description>
+</item>
+<item>
+    <title>Haarseife</title>
+    <link>https://j-p.link/posts/seife/</link>
+    <pubDate>Mon, 27 Dec 2021 19:29:54 &#43;0100</pubDate><guid>https://j-p.link/posts/seife/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/soap/soap_preview.webp" referrerpolicy="no-referrer">
+            </div>Haarseife selber sieden
+Zutaten Zutaten   155 Gramm Olivenöl 110 Gramm Distelöl 110 Gramm Kokosöl 65 Gramm Sheabutter 15 Gramm ätherische Öle (nach Belieben) 61 Gramm Natriumhydroxid (Ätznatron) 145 Milliliter Wasser Seifenformen (aus Silikon)     Zutaten" Zutaten 
+Herstellung Zunächst wird die Lauge angesetzt. Hierfür wird das Wasser in eine Schüssel gegeben (optimal Plastik, die danach ausschließlich fürs Sieden genutzt wird und auf keinen Fall für Lebensmittel).]]></description>
+</item>
+<item>
+    <title>Gesichtspeeling</title>
+    <link>https://j-p.link/posts/gesichtspeeling/</link>
+    <pubDate>Mon, 27 Dec 2021 17:50:14 &#43;0100</pubDate><guid>https://j-p.link/posts/gesichtspeeling/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/face_peeling/zutaten_preview.webp" referrerpolicy="no-referrer">
+            </div>Natron-Heilerde Peeling gegen Hautunreinheiten
+Zutaten Zutaten   6 Esslöffel Natron 4 Esslöffel Wasser 1 Esslöffel Heilerde     Herstellung Ein Natron-Heilerde Peeling ist sehr empfehlenswert bei Hautproblemen. Beide Zutaten sorgen für eine Tiefenreinigung der Haut (Natron entfernt Talg), sorgen für einen stabilen PH-Wert und beugen Unreinheiten, Irritationen und Faltenbildung vor. Über Natron wird zudem gesagt, dass es &ldquo;Altersflecken“ behebt. Hier habe ich aber keine Erfahrungswerte.
+Die Herstellung jeglicher Peelings ist sehr simple.]]></description>
+</item>
+<item>
+    <title>Körperpeeling</title>
+    <link>https://j-p.link/posts/peeling/</link>
+    <pubDate>Mon, 27 Dec 2021 17:50:14 &#43;0100</pubDate><guid>https://j-p.link/posts/peeling/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/peeling/peeling_preview.webp" referrerpolicy="no-referrer">
+            </div>Meersalz-Öl Peeling zum selbermachen.
+Zutaten Zutaten   6 Esslöffel Olivenöl 2 Esslöffel Mandelöl 4 Esslöffel Meersalz     Zutaten" Zutaten 
+Herstellung Einfach alle Zutaten in eine kleine Schüssel geben und verrühren. Danach in ein Glasgefäß abfüllen. Das Peeling reicht für mehrere Anwendungen.
+Das Peeling ist sehr gut geeignet für den Körper. Neben der Peeling Wirkung sorgen Oliven und Mandelöl für reichlich Feuchtigkeit für die Haut. Für das Gesicht und das Decolté empfehle ich eher Natron Peelings.]]></description>
+</item>
+<item>
+    <title>Abflussreiniger</title>
+    <link>https://j-p.link/posts/abflussreiniger/</link>
+    <pubDate>Mon, 27 Dec 2021 11:29:54 &#43;0100</pubDate><guid>https://j-p.link/posts/abflussreiniger/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/drain_finer/abflussreiniger_preview.webp" referrerpolicy="no-referrer">
+            </div>Zutaten Zutaten   3 Esslöffel Essigessenz 2 Esslöffel Natron (Lebensmittelqualität)     Herstellung Um den Abfluss frei zu bekommen, lediglich das Natrium hineingeben und danach die Essigessenz zuschütten. Ca. 30 Minuten ruhen lassen, bevor man warmes Wasser hinterherschüttet.
+Die Konstellation löst eine Reaktion aus und es sprudelt aus dem Abfluss. Diese chemische Reaktion löst Verschmutzungen, Seifenablagerungen und Haarrückstände und befreit den Abfluss.
+Dies Mittel ist super easy hergestellt, und kommt im Gegensatz zu dem käuflich erhältlichen Mitteln ohne für die Haut schädliche Zutaten aus.]]></description>
+</item>
+</channel>
+</rss>

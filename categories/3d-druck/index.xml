@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>3d Druck - Kategorie - j-p.link</title>
+        <link>https://j-p.link/categories/3d-druck/</link>
+        <description>3d Druck - Kategorie - j-p.link</description>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/categories/3d-druck/" rel="self" type="application/rss+xml" /><item>
+    <title>Wandhalter für Kaffefilter</title>
+    <link>https://j-p.link/posts/coffee_filter_holder/</link>
+    <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/posts/coffee_filter_holder/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/coffe_filter/coffe_corner_800.webp" referrerpolicy="no-referrer">
+            </div>Einleitung Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halöterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
+</item>
+<item>
+    <title>Ender Upgrades</title>
+    <link>https://j-p.link/posts/ender_upgrades/</link>
+    <pubDate>Sat, 01 Jan 2022 15:22:26 &#43;0100</pubDate><guid>https://j-p.link/posts/ender_upgrades/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/ender_upgrades/upgrades_preview.webp" referrerpolicy="no-referrer">
+            </div>Einleitung Nachdem ich von meiner fantastischen Freundin 😍 zu Weihnachten einen Ender 3 v2 geschenkt bekommen habe, musste ich die Zeit zwischen den ganzen Festessen so tun als wäre ich an Smalltalk interessiert, in Wahrheit jedoch wollte ich den Ender möglichst schnell aufbauen und austesten.
+Erschwerend kommt hinzu, dass ich vorher eigentlich keine Ahnung vom 3d Druck hatte, daher gab es gleichzeitig noch sehr viel zu lernen, den Thingiverse Account einrichten und direkt ein paar Coole Dinge zu &ldquo;liken&rdquo; und sich für später zu speichern.]]></description>
+</item>
+</channel>
+</rss>
