@@ -3,7 +3,16 @@
         <title>3d Druck - Tag - j-p.link</title>
         <link>https://j-p.link/tags/3d-druck/</link>
         <description>3d Druck - Tag - j-p.link</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/tags/3d-druck/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 09 Jan 2022 15:13:02 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/tags/3d-druck/" rel="self" type="application/rss+xml" /><item>
+    <title>Laptop Ständer</title>
+    <link>https://j-p.link/posts/laptop_stand/</link>
+    <pubDate>Sun, 09 Jan 2022 15:13:02 &#43;0100</pubDate><guid>https://j-p.link/posts/laptop_stand/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/laptop_stand/finished_preview.webp" referrerpolicy="no-referrer">
+            </div>Einleitung Ein größeres Ding, welche ich mal ausprobieren wollte ist ein Laptop Ständer. Da ich evtl gleich mehrere mit Unterschiedlichen Höhen gebrauchen könnte und ich alle Teile drucken wollte ohne extra nochmal zum Baumarkt zu müssen, fiel die Wahl auf diesen hier.
+Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; Orange Temperatur Nozzle: 235°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 70mm/s Supports: keine Druckzeit: alles zusammen gute 24 Std netto wenn man die Druckaufträge direkt hintereinander laufen lässt.]]></description>
+</item>
+<item>
     <title>Wandhalter für Kaffefilter</title>
     <link>https://j-p.link/posts/coffee_filter_holder/</link>
     <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/posts/coffee_filter_holder/</guid>
