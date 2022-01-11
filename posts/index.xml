@@ -3,26 +3,35 @@
         <title>Alle Artikel - j-p.link</title>
         <link>https://j-p.link/posts/</link>
         <description>Alle Artikel | j-p.link</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 09 Jan 2022 15:13:02 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 09 Jan 2022 19:03:22 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Eier! Wir brauchen Eier!</title>
+    <link>https://j-p.link/posts/egg_cups/</link>
+    <pubDate>Sun, 09 Jan 2022 19:03:22 &#43;0100</pubDate><guid>https://j-p.link/posts/egg_cups/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/egg_cups/egg_cups_preview.webp" referrerpolicy="no-referrer">
+            </div>So, nun haben wir das einzig mir bekannte Fussballerzitat auch abgefrühstück. Wir haben bei uns aus mir unbekannten Gründen nie Eierbecher besessen, obwohl wir jedes Wochenende zum Frühstück auch Eier kochen. Eigentlich doch eine Steilvorlage um etwas lustiges zu drucken! Und natürlich findet sich auf Thingiverse ein ganzer Haufen Vorschläge, als Star Wars Fan Haushalt fiel die Wahl aber schnell zum einen auf einen Stormtrooper und natürlich Darth Vader.
+Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; Weiß Temperatur Nozzle: 235°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 50mm/s Supports: Bei Darth Vader&rsquo;s &ldquo;hinteren Kopfplatte&rdquo; und am &ldquo;Kinn&rdquo; Druckzeit: Vader ca 8 1/2 Stunden, Trooper ca 5 Std     Darth Vader"]]></description>
+</item>
+<item>
     <title>Laptop Ständer</title>
     <link>https://j-p.link/posts/laptop_stand/</link>
     <pubDate>Sun, 09 Jan 2022 15:13:02 &#43;0100</pubDate><guid>https://j-p.link/posts/laptop_stand/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/images/laptop_stand/finished_preview.webp" referrerpolicy="no-referrer">
-            </div>Einleitung Ein größeres Ding, welche ich mal ausprobieren wollte ist ein Laptop Ständer. Da ich evtl gleich mehrere mit Unterschiedlichen Höhen gebrauchen könnte und ich alle Teile drucken wollte ohne extra nochmal zum Baumarkt zu müssen, fiel die Wahl auf diesen hier.
+            </div>Ein größeres Ding, welche ich mal ausprobieren wollte ist ein Laptop Ständer. Da ich evtl gleich mehrere mit Unterschiedlichen Höhen gebrauchen könnte und ich alle Teile drucken wollte ohne extra nochmal zum Baumarkt zu müssen, fiel die Wahl auf diesen hier.
 Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; Orange Temperatur Nozzle: 235°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 70mm/s Supports: keine Druckzeit: alles zusammen gute 24 Std netto wenn man die Druckaufträge direkt hintereinander laufen lässt.]]></description>
 </item>
 <item>
     <title>Wandhalter für Kaffefilter</title>
     <link>https://j-p.link/posts/coffee_filter_holder/</link>
     <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/posts/coffee_filter_holder/</guid>
-    <description><![CDATA[Einleitung Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halöterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
+    <description><![CDATA[Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
 </item>
 <item>
     <title>Ender Upgrades</title>
     <link>https://j-p.link/posts/ender_upgrades/</link>
     <pubDate>Sat, 01 Jan 2022 15:22:26 &#43;0100</pubDate><guid>https://j-p.link/posts/ender_upgrades/</guid>
-    <description><![CDATA[Einleitung Nachdem ich von meiner fantastischen Freundin 😍 zu Weihnachten einen Ender 3 v2 geschenkt bekommen habe, musste ich die Zeit zwischen den ganzen Festessen so tun als wäre ich an Smalltalk interessiert, in Wahrheit jedoch wollte ich den Ender möglichst schnell aufbauen und austesten.
+    <description><![CDATA[Nachdem ich von meiner fantastischen Freundin 😍 zu Weihnachten einen Ender 3 v2 geschenkt bekommen habe, musste ich die Zeit zwischen den ganzen Festessen so tun als wäre ich an Smalltalk interessiert, in Wahrheit jedoch wollte ich den Ender möglichst schnell aufbauen und austesten.
 Erschwerend kommt hinzu, dass ich vorher eigentlich keine Ahnung vom 3d Druck hatte, daher gab es gleichzeitig noch sehr viel zu lernen, den Thingiverse Account einrichten und direkt ein paar Coole Dinge zu &ldquo;liken&rdquo; und sich für später zu speichern.]]></description>
 </item>
 <item>
