@@ -3,7 +3,16 @@
         <title>Alle Artikel - j-p.link</title>
         <link>https://j-p.link/posts/</link>
         <description>Alle Artikel | j-p.link</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sun, 09 Jan 2022 19:03:22 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 12 Jan 2022 18:00:31 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Baby Yoda</title>
+    <link>https://j-p.link/posts/baby_yoda/</link>
+    <pubDate>Wed, 12 Jan 2022 18:00:31 &#43;0100</pubDate><guid>https://j-p.link/posts/baby_yoda/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/baby_yoda/preview.webp" referrerpolicy="no-referrer">
+            </div>Ich hoffe so mancher fühlt sich bei dem Titel jetzt getriggert, denn das ist natürlich eigentlich nicht Bady Yoda, sondern das Findelkind Grogu aus der recht neuen Serie The Mandalorian. Wie dem auch sei, mit Baby Yoda können einfach mehr Leute etwas anfangen, weshalb das sehr beliebte Modell auf Thingiverse auch so benannt ist.
+Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Grün Temperatur Nozzle: 240°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 50mm/s Supports: Ja, sowohl einmal die &ldquo;Normal&rdquo; Version als auch einmal zum Vergleich die &ldquo;Baumstruktur&rdquo; mit 40° Winkel, klare Empfehlung geht an die Baumstruktur!]]></description>
+</item>
+<item>
     <title>Eier! Wir brauchen Eier!</title>
     <link>https://j-p.link/posts/egg_cups/</link>
     <pubDate>Sun, 09 Jan 2022 19:03:22 &#43;0100</pubDate><guid>https://j-p.link/posts/egg_cups/</guid>
