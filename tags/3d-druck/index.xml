@@ -3,7 +3,16 @@
         <title>3d Druck - Tag - j-p.link</title>
         <link>https://j-p.link/tags/3d-druck/</link>
         <description>3d Druck - Tag - j-p.link</description>
-        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Wed, 12 Jan 2022 18:00:31 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/tags/3d-druck/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>de</language><lastBuildDate>Sat, 15 Jan 2022 08:12:26 &#43;0100</lastBuildDate><atom:link href="https://j-p.link/tags/3d-druck/" rel="self" type="application/rss+xml" /><item>
+    <title>Pokemon, gotta print &#39;em all!</title>
+    <link>https://j-p.link/posts/pokemon/</link>
+    <pubDate>Sat, 15 Jan 2022 08:12:26 &#43;0100</pubDate><guid>https://j-p.link/posts/pokemon/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/pokemon/finished_preview.webp" referrerpolicy="no-referrer">
+            </div>Nach dem ersten paar Drucken sind nun auch langsam die ersten Anfragen von Familie und Bekannten an der Reihe realisiert zu werden. Angefangen mit zwei Pokemonfiguren für jemandes Kinder: Nachtara und Glurak. Beide brauchten offensichtlich Supports und gerade bei Glurak war ich gespannt, da diverse Leute auf Thingiverse schwierigkeiten an mehrere Stellen hatte. Insbesondere die Flügelsspitzen und die Klauen scheinen eine Herausforderung zu sein.
+Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; Orange Temperatur Nozzle: 240°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 50mm/s Supports: Bei beiden, nach den guten Erfahrungen wieder die Baumstruktur mit 40° Winkel.]]></description>
+</item>
+<item>
     <title>Baby Yoda</title>
     <link>https://j-p.link/posts/baby_yoda/</link>
     <pubDate>Wed, 12 Jan 2022 18:00:31 &#43;0100</pubDate><guid>https://j-p.link/posts/baby_yoda/</guid>
@@ -31,10 +40,10 @@ Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; W
 Herstellung Material &amp; Einstellungen   Material: PETG Farbe: Schwarz &amp; Orange Temperatur Nozzle: 235°C Temperatur Bett: 70°C Schichtdicke: 0,2mm Druckgeschwindigkeit: 70mm/s Supports: keine Druckzeit: alles zusammen gute 24 Std netto wenn man die Druckaufträge direkt hintereinander laufen lässt.]]></description>
 </item>
 <item>
-    <title>Wandhalter für Kaffefilter</title>
+    <title>Wandhalter für Kaffeefilter</title>
     <link>https://j-p.link/posts/coffee_filter_holder/</link>
     <pubDate>Sun, 02 Jan 2022 15:07:58 &#43;0100</pubDate><guid>https://j-p.link/posts/coffee_filter_holder/</guid>
-    <description><![CDATA[Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
+    <description><![CDATA[Nachdem das noch an Weihnachten bestellte Fillament endlich eintraf, konnte ich mich nun an der ersten praktischen Haushaltsergänzung versuchen. In unserer Kaffeeecke in der Küche hatten wir bisher die Kaffeefilter direkt neben der Maschine im Karton liegen, hatten aber die Idee diese mit einer Halterung an der Schranktür zukünftig zu lagern. Das schöne an solchen Ideen ist ja, wenn andere sie schon hatten. Ich kenne mich bisher leider noch absolut garnicht mit CAD Programmen aus um so etwas selbst zu fertigen, aber eines der vielen Dinge welche ich auch Thingiverse mal vorsorglich abgespeichert hatte war eben genau so eine Wandhalterung 🙃]]></description>
 </item>
 <item>
     <title>Ender Upgrades</title>
